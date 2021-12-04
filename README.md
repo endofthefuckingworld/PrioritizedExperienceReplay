@@ -1,2 +1,2 @@
 # PrioritizedExperienceReplay
-Speed up DQN training by prioritized experience eplay
+Speed up DQN training by prioritized experience replay
